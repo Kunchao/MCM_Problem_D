@@ -1,6 +1,5 @@
 # The Flight is Flying
 
-------
 
 Our group prepare for the comprtition called MCM/ICM. Finally we choose the problem D which belongs to ICM.
 The basic theory is based on the allocation of resources to maximize the throughoutput of airport. It's unpleasant to wait in long lines for security checks. Whereares，the part is important to security.
@@ -8,8 +7,8 @@ Our work is to analyze the data provided by coumunity to develop a models to exp
 passengers and find the key way to overcoem it. 
 
 
-You can get the problemD on official website:[MCM/ICM Contest][1]
-here are the questions:
+[MCM/ICM Contest](http://www.comap.com/undergraduate/contests/)
+**Here are the questions**:
 
 > * Develop one or more model(s) that allow(s) you to explore the flow of
 passengers through a security check point and identify bottlenecks. Clearly
@@ -33,3 +32,8 @@ passenger throughput and reduces variance?
 > * Propose policy and procedural recommendations for the security managers
 based on your model. These policies may be globally applicable, or may be
 tailored for specific cultures and/or traveler types.
+
+
+he final result is as follows(alll graphs are edited with **Echart**):
+
+![Precheck Waiting Time Comparison.](https://raw.githubusercontent.com/Kunchao/MCM_Problem_D/master/Pictures/Regular%20Waiting%20Time%20Comparison.png)
