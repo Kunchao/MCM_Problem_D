@@ -7,7 +7,7 @@ Our work is to analyze the data provided by coumunity to develop a models to exp
 passengers and find the key way to overcoem it. 
 
 
-[MCM/ICM Contest](http://www.comap.com/undergraduate/contests/)
+You can get the problemD on official website:[MCM/ICM Contest](http://www.comap.com/undergraduate/contests/)
 **Here are the questions**:
 
 > * Develop one or more model(s) that allow(s) you to explore the flow of
@@ -34,6 +34,6 @@ based on your model. These policies may be globally applicable, or may be
 tailored for specific cultures and/or traveler types.
 
 
-he final result is as follows(alll graphs are edited with **Echart**):
+##The final result is as follows(alll graphs are edited with **Echarts**):
 
 ![Precheck Waiting Time Comparison.](https://raw.githubusercontent.com/Kunchao/MCM_Problem_D/master/Pictures/Regular%20Waiting%20Time%20Comparison.png)
