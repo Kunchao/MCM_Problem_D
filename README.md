@@ -34,6 +34,6 @@ based on your model. These policies may be globally applicable, or may be
 tailored for specific cultures and/or traveler types.
 
 
-##The final result is as follows(alll graphs are edited with **Echarts**):
+## The final result is as follows(alll graphs are edited with **Echarts**):
 
 ![Precheck Waiting Time Comparison.](https://raw.githubusercontent.com/Kunchao/MCM_Problem_D/master/Pictures/Regular%20Waiting%20Time%20Comparison.png)
